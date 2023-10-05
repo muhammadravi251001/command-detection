@@ -1,3 +1,3 @@
 # command-detection
 
-Code for determining the user's given command using the ATIS and SNIPS datasets with a neural network approach: specifically LSTM.
+Code for determining the command given by the user by performing sequential intent classification and slot-filling using the ATIS and SNIPS datasets with a neural network approach: specifically LSTM.
